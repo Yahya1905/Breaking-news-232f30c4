@@ -1,0 +1,56 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    color: #orange;
+    background-color: orange;
+}
+
+.content { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: bisque;    
+}
+
+.content>p { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.news {
+    width: 33%;
+}
+
+#breaking{
+    
+    order: -1;
+}
+
+#breaking h3 {
+    
+    
+ font-size: 48px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
